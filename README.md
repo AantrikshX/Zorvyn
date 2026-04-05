@@ -109,7 +109,7 @@ ZORVYN/
 
 ```bash
 # Clone repository
-git clone <your-repo-link>
+git clone https://github.com/AantrikshX/Zorvyn.git
 
 # Navigate to project
 cd ZORVYN
