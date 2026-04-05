@@ -163,12 +163,12 @@ npm run dev
 
 <h3>📱 Mobile View</h3>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="public/screenshots/Mobile1.jpeg" width="90%" />
-  <img src="public/screenshots/Mobile2.jpeg" width="90%" />
-  <img src="public/screenshots/Mobile3.jpeg" width="90%" />
-  <img src="public/screenshots/Mobile4.jpeg" width="90%" />
-  <img src="public/screenshots/Mobile5.jpeg" width="90%" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px;">
+  <img src="./public/screenshots/Mobile1.jpeg" width="100%" />
+  <img src="./public/screenshots/Mobile2.jpeg" width="100%" />
+  <img src="./public/screenshots/Mobile3.jpeg" width="100%" />
+  <img src="./public/screenshots/Mobile4.jpeg" width="100%" />
+  <img src="./public/screenshots/Mobile5.jpeg" width="100%" />
 </div>
 
 ---
